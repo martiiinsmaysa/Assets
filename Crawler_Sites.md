@@ -28,3 +28,12 @@
 - https://defato.com/
 - https://www.diariopotiguar.com.br/
 - https://www.potiguarnoticias.com.br/
+
+## Rio de Janeiro
+- https://oglobo.globo.com/
+- https://odia.ig.com.br/
+- https://extra.globo.com/
+- https://meiahora.ig.com.br/
+- https://www.correiodobrasil.com.br/
+- https://g1.globo.com/rj/rio-de-janeiro/
+- https://vejario.abril.com.br/
