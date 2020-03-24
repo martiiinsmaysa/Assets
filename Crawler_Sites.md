@@ -19,3 +19,12 @@
 - https://novoextra.com.br/
 - https://veja.abril.com.br/noticias-sobre/alagoas/
 - https://d.gazetadealagoas.com.br/
+
+## Rio Grande do Norte
+- https://agorarn.com.br/
+- http://www.tribunadonorte.com.br/
+- http://www.tribunadenoticias.com.br/
+- https://jornalmetropolitano.com.br/
+- https://defato.com/
+- https://www.diariopotiguar.com.br/
+- https://www.potiguarnoticias.com.br/
