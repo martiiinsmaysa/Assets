@@ -1,14 +1,8 @@
 # Base de sites para o crawler
 
-## Pernambuco
-- https://www.diariodepernambuco.com.br/
-- https://g1.globo.com/pe/pernambuco/
-- https://www.folhape.com.br/
-- https://noticias.r7.com/pernambuco
-- https://tvjornal.ne10.uol.com.br/
-- http://www.portais.pe.gov.br/web/sedsdh/noticias
-- https://exame.abril.com.br/noticias-sobre/pernambuco/
-- https://radiojornal.ne10.uol.com.br/
+
+## Acre
+
 
 ## Alagoas
 - https://g1.globo.com/al/alagoas/
@@ -20,14 +14,46 @@
 - https://veja.abril.com.br/noticias-sobre/alagoas/
 - https://d.gazetadealagoas.com.br/
 
-## Rio Grande do Norte
-- https://agorarn.com.br/
-- http://www.tribunadonorte.com.br/
-- http://www.tribunadenoticias.com.br/
-- https://jornalmetropolitano.com.br/
-- https://defato.com/
-- https://www.diariopotiguar.com.br/
-- https://www.potiguarnoticias.com.br/
+
+## Amapá
+
+## Amazonas
+
+## Bahia
+
+## Ceará
+
+## Distrito Federal
+
+## Espírito Santo
+
+## Goiás
+
+## Maranhão
+
+## Mato Grosso
+
+## Mato Grosso do Sul
+
+## Minas Gerais
+
+## Pará
+
+## Paraíba
+
+## Paraná
+
+## Pernambuco
+- https://www.diariodepernambuco.com.br/
+- https://g1.globo.com/pe/pernambuco/
+- https://www.folhape.com.br/
+- https://noticias.r7.com/pernambuco
+- https://tvjornal.ne10.uol.com.br/
+- http://www.portais.pe.gov.br/web/sedsdh/noticias
+- https://exame.abril.com.br/noticias-sobre/pernambuco/
+- https://radiojornal.ne10.uol.com.br/
+
+## Piauí
 
 ## Rio de Janeiro
 - https://oglobo.globo.com/
@@ -37,3 +63,27 @@
 - https://www.correiodobrasil.com.br/
 - https://g1.globo.com/rj/rio-de-janeiro/
 - https://vejario.abril.com.br/
+
+## Rio Grande do Norte
+- https://agorarn.com.br/
+- http://www.tribunadonorte.com.br/
+- http://www.tribunadenoticias.com.br/
+- https://jornalmetropolitano.com.br/
+- https://defato.com/
+- https://www.diariopotiguar.com.br/
+- https://www.potiguarnoticias.com.br/
+
+
+## Rio Grande do Sul
+
+## Rondônia
+
+## Roraima
+
+## Santa Catarina
+
+## São Paulo
+
+## Sergipe
+
+## Tocantins
