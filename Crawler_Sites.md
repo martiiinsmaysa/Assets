@@ -17,7 +17,8 @@
 
 ## Amapá
 - https://www.diariodoamapa.com.br/
-
+- http://www.jdia.com.br/
+- https://www.tribunaamapaense.com/
 
 ## Amazonas
 
