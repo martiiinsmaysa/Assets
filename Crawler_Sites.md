@@ -37,3 +37,9 @@
 - https://www.correiodobrasil.com.br/
 - https://g1.globo.com/rj/rio-de-janeiro/
 - https://vejario.abril.com.br/
+
+## São Paulo
+- https://g1.globo.com/sp/sao-paulo/cidade/sao-paulo/
+- https://www.saopaulo.sp.gov.br/ultimas-noticias/
+- https://sao-paulo.estadao.com.br/
+- https://noticias.uol.com.br/sao-paulo/noticias
