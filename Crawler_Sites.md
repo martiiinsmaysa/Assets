@@ -87,3 +87,7 @@
 ## Sergipe
 
 ## Tocantins
+- https://g1.globo.com/to/tocantins/
+- https://www.jornaldotocantins.com.br/
+- https://conexaoto.com.br/
+
